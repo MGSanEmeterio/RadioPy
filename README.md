@@ -1,5 +1,5 @@
 # RadioPy
-Python package for Radio Astrophysics
+Python package for synchrotron radio emission in Radio Astrophysics
 
 
 Welcome to RadioPy : the python package for radio astronomy!
